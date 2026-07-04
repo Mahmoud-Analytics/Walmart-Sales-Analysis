@@ -53,13 +53,13 @@ Main columns include:
 ![Excel Dashboard](Excel/Walmart_Sales_Excel-Dashboard.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](Power%20BI/Walmart_Dashboard.png)
+![Power BI Dashboard](./PowerBi/Walmart_Dashboard.png)
 
 ## Project Files
 - `Excel/` contains the Excel dashboard and dashboard image.
 - `SQL/` contains SQL queries used for analysis.
 - `Python/` contains the Python notebook, cleaned dataset, outputs, and charts.
-- `Power BI/` contains the Power BI dashboard file and dashboard image.
+- `PowerBi/` contains the Power BI dashboard file and dashboard image.
 
 ## Conclusion
 This project demonstrates a complete data analysis workflow, starting from data cleaning and exploration to building interactive dashboards and extracting business insights.
