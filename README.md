@@ -53,7 +53,7 @@ Main columns include:
 ![Excel Dashboard](Excel/Walmart_Sales_Excel-Dashboard.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](Power%20BI/Walmart_PowerBI_Dashboard.png)
+![Power BI Dashboard](Power%20BI/Walmart_Dashboard.png)
 
 ## Project Files
 - `Excel/` contains the Excel dashboard and dashboard image.
